@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-
-
 package sonia.portal.system;
 
 //~--- non-JDK imports --------------------------------------------------------
