@@ -6,14 +6,14 @@
   <parent>
     <groupId>de.sonia.portal</groupId>
     <artifactId>sonia-portal-parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
   </parent>
   
   <groupId>de.sonia.portal.system</groupId>
   <artifactId>sonia-portal-system</artifactId>
   <packaging>jar</packaging>
   <name>sonia-portal-system Library</name>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   
   <scm>
     <connection>scm:git:https://github.com/campussource-liferay-portlets/sonia-portal-system</connection>
