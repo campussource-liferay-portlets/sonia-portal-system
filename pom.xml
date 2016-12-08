@@ -6,14 +6,14 @@
   <parent>
     <groupId>de.sonia.portal</groupId>
     <artifactId>sonia-portal-parent</artifactId>
-    <version>2</version>
+    <version>3</version>
   </parent>
   
   <groupId>de.sonia.portal.system</groupId>
   <artifactId>sonia-portal-system</artifactId>
   <packaging>jar</packaging>
   <name>sonia-portal-system Library</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <description>System utility library for liferay user credentials</description>
 
@@ -70,7 +70,7 @@
     <dependency>
       <groupId>de.sonia.portal</groupId>
       <artifactId>sonia-portal-parent-base</artifactId>
-      <version>1-SNAPSHOT</version>
+      <version>3</version>
       <type>pom</type>
       <exclusions>
         <exclusion>
